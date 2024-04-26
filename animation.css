@@ -1,0 +1,13 @@
+@keyframes home-page{
+    0%{
+            transform: translateX(-400px);
+            opacity: 0;
+    }
+    100%{
+        transform: translateX(0);
+        opacity: 2;
+    }
+}
+@keyframes navbar {
+    
+}
